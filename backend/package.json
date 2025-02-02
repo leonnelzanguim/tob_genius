@@ -1,0 +1,26 @@
+{
+  "name": "tob_genius_backend",
+  "version": "1.0.0",
+  "description": "backend for tob_genius project",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonnelzanguim/tob_genius.git#main"
+  },
+  "author": "Leonnel Zanguim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonnelzanguim/tob_genius/issues"
+  },
+  "homepage": "https://github.com/leonnelzanguim/tob_genius/tree/main#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
